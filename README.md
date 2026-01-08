@@ -1,10 +1,16 @@
-# 🛍️ Ultimate E-Commerce App (Flutter & Firebase)
+<div align="center">
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=E-Ticaret%20Müşteri%20Uygulaması&fontSize=30&animation=fadeIn&fontAlign=50" width="100%"/>
+  
+  <p>
+    <i>Müşterilerin ürünleri keşfedip, sepete ekleyerek sipariş verdiği akıcı mobil deneyim.</i>
+  </p>
 
-Flutter ve Firebase altyapısı kullanılarak geliştirilmiş, **MVVM** mimarisine ve **Clean Architecture** prensiplerine uygun, ölçeklenebilir bir E-Ticaret müşteri uygulamasıdır.
-
-Bu proje, sadece bir arayüz çalışması değil; Authentication, State Management, Database ve Storage işlemlerini içeren canlı bir ekosistemdir.
-
----
+  <a href="https://github.com/younessemre/eticaret_uygulamasi_admin">
+    <img src="https://img.shields.io/badge/🛠️_Admin_Panelini_Gör-İNCELE-2979FF?style=for-the-badge&logo=flutter&logoColor=white&color=black&labelColor=2979FF" height="45">
+  </a>
+  <br><br>
+</div>
 
 <div align="center">
   <h2>🎬 Uygulama Önizlemesi</h2>
