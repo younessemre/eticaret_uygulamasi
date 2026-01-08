@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=E-Ticaret%20Müşteri%20Uygulaması&fontSize=30&animation=fadeIn&fontAlign=50" width="100%"/>
   
   <p>
-    <i>Müşterilerin ürünleri keşfedip, sepete ekleyerek sipariş verdiği akıcı mobil deneyim.</i>
+    <i>Kullanıcı dostu arayüzü ile müşterilere, ürünleri hızla filtreleyip saniyeler içinde sipariş verebildikleri akıcı bir alışveriş yolculuğu sunar.</i>
   </p>
 
   <a href="https://github.com/younessemre/eticaret_uygulamasi_admin">
