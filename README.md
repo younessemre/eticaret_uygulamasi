@@ -49,25 +49,3 @@ Kod okunabilirliğini artırmak için modüler bir yapı tercih edilmiştir:
 * `services/`: Firebase ve global metodların yönetildiği servis katmanı.
 * `screens/`: Kullanıcı arayüzü sayfaları (Auth, Cart, Home, vb.).
 * `widgets/`: Tekrar kullanılabilir, modüler UI parçaları.
-
-## 🚀 Kurulum ve Çalıştırma
-
-Projeyi yerel makinenizde çalıştırmak için adımları izleyin:
-
-1.  **Projeyi Klonlayın:**
-    ```bash
-    git clone [https://github.com/KULLANICI_ADIN/ecommerce-flutter.git](https://github.com/KULLANICI_ADIN/ecommerce-flutter.git)
-    ```
-2.  **Paketleri Yükleyin:**
-    ```bash
-    flutter pub get
-    ```
-3.  **Firebase Kurulumu:**
-    * Kendi `google-services.json` dosyanızı `android/app/` klasörüne ekleyin.
-4.  **Başlatın:**
-    ```bash
-    flutter run
-    ```
-
----
-*Geliştirici: [Senin Adın]*
