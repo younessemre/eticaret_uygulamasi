@@ -2,7 +2,9 @@
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=E-Ticaret%20Müşteri%20Uygulaması&fontSize=30&animation=fadeIn&fontAlign=50" width="100%"/>
   
-  
+  <p>
+    <i>Kullanıcı dostu arayüzü ile müşterilere, ürünleri hızla filtreleyip saniyeler içinde sipariş verebildikleri akıcı bir alışveriş yolculuğu sunar.</i>
+  </p>
 
   <a href="https://github.com/younessemre/eticaret_uygulamasi_admin">
     <img src="https://img.shields.io/badge/🛠️_Admin_Panelini_Gör-İNCELE-2979FF?style=for-the-badge&logo=flutter&logoColor=white&color=black&labelColor=2979FF" height="45">
@@ -13,10 +15,6 @@
 <div align="center">
   <h2>🎬 Uygulama Önizlemesi</h2>
   <img src="https://github.com/user-attachments/assets/f0d283bd-040b-4b76-b9ff-1d06a3510740" width="300" />
-  <p>
-    <i>Kullanıcı dostu arayüzü ile müşterilere, ürünleri hızla filtreleyip saniyeler içinde sipariş verebildikleri akıcı bir alışveriş yolculuğu sunar.</i>
-    <br><br>
-  </p>
 </div>
 
 ---
