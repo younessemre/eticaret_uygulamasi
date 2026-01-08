@@ -1,5 +1,9 @@
 <div align="center">
-  <h3>🎬 Uygulama Önizlemesi</h3>
+  <h2>🎬 Uygulama Önizlemesi</h2>
   <img src="https://github.com/user-attachments/assets/f0d283bd-040b-4b76-b9ff-1d06a3510740" width="300" />
-  <p><i>Uygulama akışını ve özelliklerini görmek için yukarıdaki demoyu izleyebilirsiniz.</i></p>
+  <p>
+    <i>Müşterilerin ürünleri keşfedip sipariş verdiği akıcı mobil deneyim.</i>
+    <br><br>
+    <small>💡 <b>Not:</b> Bu sistemin arka planında çalışan Yönetim Paneli (Admin Dashboard) projesi ayrıca geliştirilmiştir.</small>
+  </p>
 </div>
