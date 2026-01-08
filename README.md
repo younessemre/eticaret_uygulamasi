@@ -18,7 +18,7 @@
   <p>
     <i>Kullanıcı dostu arayüzü ile müşterilere, ürünleri hızla filtreleyip saniyeler içinde sipariş verebildikleri akıcı bir alışveriş yolculuğu sunar.</i>
     <br><br>
-    <small>💡 <b>Sistem Notu:</b> Bu projenin ürün ve sipariş yönetimi için geliştirilen <b><a href="https://github.com/younessemre/eticaret_uygulamasi_admin">Admin Paneli (Yönetici)</a></b> projesini ayrıca inceleyebilirsiniz.</small>
+    <small>💡 <b>Sistem Notu:Bu projenin ürün ve sipariş yönetimi için geliştirilen <b><a href="https://github.com/younessemre/eticaret_uygulamasi_admin">Admin Paneli (Yönetici)</a></b> projesini ayrıca inceleyebilirsiniz.
   </p>
 </div>
 
