@@ -16,7 +16,7 @@
   <h2>🎬 Uygulama Önizlemesi</h2>
   <img src="https://github.com/user-attachments/assets/f0d283bd-040b-4b76-b9ff-1d06a3510740" width="300" />
   <p>
-    <i>Müşterilerin ürünleri keşfedip, sepete ekleyerek sipariş verdiği akıcı mobil deneyim.</i>
+    <i>Kullanıcı dostu arayüzü ile müşterilere, ürünleri hızla filtreleyip saniyeler içinde sipariş verebildikleri akıcı bir alışveriş yolculuğu sunar.</i>
     <br><br>
     <small>💡 <b>Sistem Notu:</b> Bu projenin ürün ve sipariş yönetimi için geliştirilen <b><a href="https://github.com/younessemre/eticaret_uygulamasi_admin">Admin Paneli (Yönetici)</a></b> projesini ayrıca inceleyebilirsiniz.</small>
   </p>
