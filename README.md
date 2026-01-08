@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=E-Ticaret%20Müşteri%20Uygulaması&fontSize=30&animation=fadeIn&fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=E-Ticaret%20Uygulaması&fontSize=30&animation=fadeIn&fontAlign=50" width="100%"/>
   
   <a href="https://github.com/younessemre/eticaret_uygulamasi_admin">
     <img src="https://img.shields.io/badge/🛠️_Admin_Panelini_Gör-İNCELE-2979FF?style=for-the-badge&logo=flutter&logoColor=white&color=black&labelColor=2979FF" height="45">
